@@ -47,17 +47,6 @@
 
 **42 planned episodes** tracing the emergence of the cosmos, the cycles of creation, and the stories that shape a universe.
 
-## ✦ The Characters
-
-<table>
-<tr>
-<td align="center"><img src="bhaagavatam-frontend/public/art/01-krishna-character-portrait.webp" width="180"/><br/><b>Krishna</b></td>
-<td align="center"><img src="bhaagavatam-frontend/public/art/02-arjuna-character-portrait.webp" width="180"/><br/><b>Arjuna</b></td>
-<td align="center"><img src="bhaagavatam-frontend/public/art/03-draupadi-character-portrait.webp" width="180"/><br/><b>Draupadi</b></td>
-<td align="center"><img src="bhaagavatam-frontend/public/art/04-bhishma-character-portrait.webp" width="180"/><br/><b>Bhishma</b></td>
-</tr>
-</table>
-
 ## ✦ Discover 17 Story Collections
 
 | | |
