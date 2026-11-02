@@ -1,0 +1,343 @@
+{
+  "uploaded_images": [
+    {
+      "id": 1,
+      "original": "01_krishna-character-portrait.png",
+      "website_path": "/art/01-krishna-character-portrait.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 2,
+      "original": "02_arjuna-character-portrait.png",
+      "website_path": "/art/02-arjuna-character-portrait.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 3,
+      "original": "03_draupadi-character-portrait.png",
+      "website_path": "/art/03-draupadi-character-portrait.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 4,
+      "original": "04_bhishma-character-portrait.png",
+      "website_path": "/art/04-bhishma-character-portrait.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 5,
+      "original": "05_meditating-sage-philosophy.png",
+      "website_path": "/art/05-meditating-sage-philosophy.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 6,
+      "original": "06_indian-temple-heritage.png",
+      "website_path": "/art/06-indian-temple-heritage.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 7,
+      "original": "07_celestial-mandala.png",
+      "website_path": "/art/07-celestial-mandala.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 8,
+      "original": "08_achievement-medallion.png",
+      "website_path": "/art/08-achievement-medallion.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 9,
+      "original": "09_cosmic-ocean-vishnu.png",
+      "website_path": "/art/09-cosmic-ocean-vishnu.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 10,
+      "original": "10_krishna-arjuna-chariot.png",
+      "website_path": "/art/10-krishna-arjuna-chariot.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 11,
+      "original": "11_sage-teaching-disciples.png",
+      "website_path": "/art/11-sage-teaching-disciples.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 12,
+      "original": "12_ancient-strategy-scholar.png",
+      "website_path": "/art/12-ancient-strategy-scholar.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 13,
+      "original": "13_krishna-vrindavan-moonlight.png",
+      "website_path": "/art/13-krishna-vrindavan-moonlight.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 14,
+      "original": "14_shiva-kailash-landscape.png",
+      "website_path": "/art/14-shiva-kailash-landscape.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 15,
+      "original": "15_sacred-lotus-golden-diya.png",
+      "website_path": "/art/15-sacred-lotus-golden-diya.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 16,
+      "original": "16_bhagavad-gita-the-battle-within.png",
+      "website_path": "/art/16-bhagavad-gita-the-battle-within.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 17,
+      "original": "17_bhagavad-gita-the-eternal-dialogue.png",
+      "website_path": "/art/17-bhagavad-gita-the-eternal-dialogue.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 18,
+      "original": "18_bh#U0101gavatam-eternal-cosmic-wisdom.png",
+      "website_path": "/art/18-bh-u0101gavatam-eternal-cosmic-wisdom.webp",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": 19,
+      "original": "19_bhagavatam-golden-krishna-epic.png",
+      "website_path": "/art/19-bhagavatam-golden-krishna-epic.webp",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": 20,
+      "original": "20_cosmic-ocean-of-creation.png",
+      "website_path": "/art/20-cosmic-ocean-of-creation.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 21,
+      "original": "21_cosmic-origins-and-creation.png",
+      "website_path": "/art/21-cosmic-origins-and-creation.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 22,
+      "original": "22_devi-mahatmya-triumph-of-divine-power.png",
+      "website_path": "/art/22-devi-mahatmya-triumph-of-divine-power.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 23,
+      "original": "23_golden-archer-at-sunset.png",
+      "website_path": "/art/23-golden-archer-at-sunset.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 24,
+      "original": "24_golden-b-krishna-amidst-temples-and-moonlight.png",
+      "website_path": "/art/24-golden-b-krishna-amidst-temples-and-moonlight.webp",
+      "width": 1261,
+      "height": 1247
+    },
+    {
+      "id": 25,
+      "original": "25_golden-cosmic-mandala-of-divine-geometry.png",
+      "website_path": "/art/25-golden-cosmic-mandala-of-divine-geometry.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 26,
+      "original": "26_golden-lotus-altar-by-moonlit-ghats.png",
+      "website_path": "/art/26-golden-lotus-altar-by-moonlit-ghats.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 27,
+      "original": "27_golden-lotus-temple-emblem.png",
+      "website_path": "/art/27-golden-lotus-temple-emblem.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 28,
+      "original": "28_golden-temple-at-sunset.png",
+      "website_path": "/art/28-golden-temple-at-sunset.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 29,
+      "original": "29_illuminated-krishna-manuscript-in-golden-lamplight.png",
+      "website_path": "/art/29-illuminated-krishna-manuscript-in-golden-lamplight.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 30,
+      "original": "30_krishna-and-arjuna-at-dawn.png",
+      "website_path": "/art/30-krishna-and-arjuna-at-dawn.webp",
+      "width": 2048,
+      "height": 768
+    },
+    {
+      "id": 31,
+      "original": "31_krishna-and-arjuna-at-kurukshetra.png",
+      "website_path": "/art/31-krishna-and-arjuna-at-kurukshetra.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 32,
+      "original": "32_krishna-the-divine-birth.png",
+      "website_path": "/art/32-krishna-the-divine-birth.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 33,
+      "original": "33_krishna-s-golden-riverside-flute-serenade.png",
+      "website_path": "/art/33-krishna-s-golden-riverside-flute-serenade.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 34,
+      "original": "34_krishna-s-twilight-in-vrindavan.png",
+      "website_path": "/art/34-krishna-s-twilight-in-vrindavan.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 35,
+      "original": "35_mahabharata-clash-of-destiny.png",
+      "website_path": "/art/35-mahabharata-clash-of-destiny.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 36,
+      "original": "36_moonlit-krishna-by-the-sacred-river.png",
+      "website_path": "/art/36-moonlit-krishna-by-the-sacred-river.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 37,
+      "original": "37_moonlit-sage-at-the-temple-hermitage.png",
+      "website_path": "/art/37-moonlit-sage-at-the-temple-hermitage.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 38,
+      "original": "38_ornate-golden-krishna-b-emblem.png",
+      "website_path": "/art/38-ornate-golden-krishna-b-emblem.webp",
+      "width": 1254,
+      "height": 1254
+    },
+    {
+      "id": 39,
+      "original": "39_ramayana-a-golden-epic-journey.png",
+      "website_path": "/art/39-ramayana-a-golden-epic-journey.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 40,
+      "original": "40_ramayana-a-journey-of-dharma.png",
+      "website_path": "/art/40-ramayana-a-journey-of-dharma.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 41,
+      "original": "41_ramayana-the-beginning-of-a-greater-journey.png",
+      "website_path": "/art/41-ramayana-the-beginning-of-a-greater-journey.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 42,
+      "original": "42_regal-woman-in-the-golden-court.png",
+      "website_path": "/art/42-regal-woman-in-the-golden-court.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 43,
+      "original": "43_sage-writing-at-dawn-over-the-sacred-valley.png",
+      "website_path": "/art/43-sage-writing-at-dawn-over-the-sacred-valley.webp",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 44,
+      "original": "44_scholar-of-the-celestial-city.png",
+      "website_path": "/art/44-scholar-of-the-celestial-city.webp",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "id": 45,
+      "original": "45_shiva-at-kailash-eternal-ascetic.png",
+      "website_path": "/art/45-shiva-at-kailash-eternal-ascetic.webp",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": 46,
+      "original": "46_shiva-s-himalayan-sunset-sanctuary.png",
+      "website_path": "/art/46-shiva-s-himalayan-sunset-sanctuary.webp",
+      "width": 1672,
+      "height": 941
+    }
+  ],
+  "active_aliases": {
+    "vishnu": "/art/09-cosmic-ocean-vishnu.webp",
+    "gita": "/art/17-bhagavad-gita-the-eternal-dialogue.webp",
+    "ramayana": "/art/40-ramayana-a-journey-of-dharma.webp",
+    "krishna": "/art/34-krishna-s-twilight-in-vrindavan.webp",
+    "shiva": "/art/45-shiva-at-kailash-eternal-ascetic.webp",
+    "epics": "/art/35-mahabharata-clash-of-destiny.webp",
+    "divine": "/art/22-devi-mahatmya-triumph-of-divine-power.webp",
+    "battle": "/art/31-krishna-and-arjuna-at-kurukshetra.webp",
+    "wisdom": "/art/25-golden-cosmic-mandala-of-divine-geometry.webp",
+    "cosmos": "/art/20-cosmic-ocean-of-creation.webp",
+    "puranas": "/art/29-illuminated-krishna-manuscript-in-golden-lamplight.webp",
+    "meditation": "/art/05-meditating-sage-philosophy.webp",
+    "arjuna": "/art/02-arjuna-character-portrait.webp"
+  },
+  "logo": "/branding/bhaagavatam-logo-new.webp",
+  "monogram": "/branding/bhaagavatam-monogram-new.webp"
+}

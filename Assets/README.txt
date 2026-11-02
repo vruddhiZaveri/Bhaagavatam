@@ -1,0 +1,1 @@
+Bhaagavatam assets 18-33 from the individually generated image sequence. Asset 26 is excluded because its generation was unsuccessful. Images are cinematic illustrations with backgrounds, not transparent cutouts.

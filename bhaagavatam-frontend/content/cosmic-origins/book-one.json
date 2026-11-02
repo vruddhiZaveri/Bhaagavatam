@@ -1,0 +1,926 @@
+{
+  "id": "BO1",
+  "title": "The Origins of Existence",
+  "source_note": "Episode IDs and five arc ranges are supplied; individual approved titles and source mappings were not supplied.",
+  "arcs": [
+    {
+      "id": "BO1-A1",
+      "title": "Before the Universe",
+      "start": 1,
+      "end": 8,
+      "description": "The unmanifest, primordial questions, and the first visions of existence."
+    },
+    {
+      "id": "BO1-A2",
+      "title": "Accounts of Creation",
+      "start": 9,
+      "end": 18,
+      "description": "Different scriptural traditions describe creation through distinct lenses."
+    },
+    {
+      "id": "BO1-A3",
+      "title": "Manifestation of the Cosmos",
+      "start": 19,
+      "end": 26,
+      "description": "Elements, qualities, and the ordered worlds of the cosmos."
+    },
+    {
+      "id": "BO1-A4",
+      "title": "First Beings and Lineages",
+      "start": 27,
+      "end": 34,
+      "description": "The emergence of beings, sages, and cosmic lineages."
+    },
+    {
+      "id": "BO1-A5",
+      "title": "Cosmic Time and Dissolution",
+      "start": 35,
+      "end": 42,
+      "description": "Yugas, kalpas, manvantaras, dissolution, and renewal."
+    }
+  ],
+  "episodes": [
+    {
+      "id": "BO1-001",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 1,
+      "title": null,
+      "display_title": "Episode 01 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-001",
+      "previous": null,
+      "next": "BO1-002"
+    },
+    {
+      "id": "BO1-002",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 2,
+      "title": null,
+      "display_title": "Episode 02 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-002",
+      "previous": "BO1-001",
+      "next": "BO1-003"
+    },
+    {
+      "id": "BO1-003",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 3,
+      "title": null,
+      "display_title": "Episode 03 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-003",
+      "previous": "BO1-002",
+      "next": "BO1-004"
+    },
+    {
+      "id": "BO1-004",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 4,
+      "title": null,
+      "display_title": "Episode 04 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-004",
+      "previous": "BO1-003",
+      "next": "BO1-005"
+    },
+    {
+      "id": "BO1-005",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 5,
+      "title": null,
+      "display_title": "Episode 05 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-005",
+      "previous": "BO1-004",
+      "next": "BO1-006"
+    },
+    {
+      "id": "BO1-006",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 6,
+      "title": null,
+      "display_title": "Episode 06 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-006",
+      "previous": "BO1-005",
+      "next": "BO1-007"
+    },
+    {
+      "id": "BO1-007",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 7,
+      "title": null,
+      "display_title": "Episode 07 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-007",
+      "previous": "BO1-006",
+      "next": "BO1-008"
+    },
+    {
+      "id": "BO1-008",
+      "arc_id": "BO1-A1",
+      "arc": "Before the Universe",
+      "sequence": 8,
+      "title": null,
+      "display_title": "Episode 08 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-008",
+      "previous": "BO1-007",
+      "next": "BO1-009"
+    },
+    {
+      "id": "BO1-009",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 9,
+      "title": null,
+      "display_title": "Episode 09 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-009",
+      "previous": "BO1-008",
+      "next": "BO1-010"
+    },
+    {
+      "id": "BO1-010",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 10,
+      "title": null,
+      "display_title": "Episode 10 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-010",
+      "previous": "BO1-009",
+      "next": "BO1-011"
+    },
+    {
+      "id": "BO1-011",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 11,
+      "title": null,
+      "display_title": "Episode 11 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-011",
+      "previous": "BO1-010",
+      "next": "BO1-012"
+    },
+    {
+      "id": "BO1-012",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 12,
+      "title": null,
+      "display_title": "Episode 12 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-012",
+      "previous": "BO1-011",
+      "next": "BO1-013"
+    },
+    {
+      "id": "BO1-013",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 13,
+      "title": null,
+      "display_title": "Episode 13 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-013",
+      "previous": "BO1-012",
+      "next": "BO1-014"
+    },
+    {
+      "id": "BO1-014",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 14,
+      "title": null,
+      "display_title": "Episode 14 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-014",
+      "previous": "BO1-013",
+      "next": "BO1-015"
+    },
+    {
+      "id": "BO1-015",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 15,
+      "title": null,
+      "display_title": "Episode 15 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-015",
+      "previous": "BO1-014",
+      "next": "BO1-016"
+    },
+    {
+      "id": "BO1-016",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 16,
+      "title": null,
+      "display_title": "Episode 16 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-016",
+      "previous": "BO1-015",
+      "next": "BO1-017"
+    },
+    {
+      "id": "BO1-017",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 17,
+      "title": null,
+      "display_title": "Episode 17 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-017",
+      "previous": "BO1-016",
+      "next": "BO1-018"
+    },
+    {
+      "id": "BO1-018",
+      "arc_id": "BO1-A2",
+      "arc": "Accounts of Creation",
+      "sequence": 18,
+      "title": null,
+      "display_title": "Episode 18 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-018",
+      "previous": "BO1-017",
+      "next": "BO1-019"
+    },
+    {
+      "id": "BO1-019",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 19,
+      "title": null,
+      "display_title": "Episode 19 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-019",
+      "previous": "BO1-018",
+      "next": "BO1-020"
+    },
+    {
+      "id": "BO1-020",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 20,
+      "title": null,
+      "display_title": "Episode 20 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-020",
+      "previous": "BO1-019",
+      "next": "BO1-021"
+    },
+    {
+      "id": "BO1-021",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 21,
+      "title": null,
+      "display_title": "Episode 21 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-021",
+      "previous": "BO1-020",
+      "next": "BO1-022"
+    },
+    {
+      "id": "BO1-022",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 22,
+      "title": null,
+      "display_title": "Episode 22 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-022",
+      "previous": "BO1-021",
+      "next": "BO1-023"
+    },
+    {
+      "id": "BO1-023",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 23,
+      "title": null,
+      "display_title": "Episode 23 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-023",
+      "previous": "BO1-022",
+      "next": "BO1-024"
+    },
+    {
+      "id": "BO1-024",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 24,
+      "title": null,
+      "display_title": "Episode 24 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-024",
+      "previous": "BO1-023",
+      "next": "BO1-025"
+    },
+    {
+      "id": "BO1-025",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 25,
+      "title": null,
+      "display_title": "Episode 25 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-025",
+      "previous": "BO1-024",
+      "next": "BO1-026"
+    },
+    {
+      "id": "BO1-026",
+      "arc_id": "BO1-A3",
+      "arc": "Manifestation of the Cosmos",
+      "sequence": 26,
+      "title": null,
+      "display_title": "Episode 26 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-026",
+      "previous": "BO1-025",
+      "next": "BO1-027"
+    },
+    {
+      "id": "BO1-027",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 27,
+      "title": null,
+      "display_title": "Episode 27 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-027",
+      "previous": "BO1-026",
+      "next": "BO1-028"
+    },
+    {
+      "id": "BO1-028",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 28,
+      "title": null,
+      "display_title": "Episode 28 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-028",
+      "previous": "BO1-027",
+      "next": "BO1-029"
+    },
+    {
+      "id": "BO1-029",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 29,
+      "title": null,
+      "display_title": "Episode 29 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-029",
+      "previous": "BO1-028",
+      "next": "BO1-030"
+    },
+    {
+      "id": "BO1-030",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 30,
+      "title": null,
+      "display_title": "Episode 30 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-030",
+      "previous": "BO1-029",
+      "next": "BO1-031"
+    },
+    {
+      "id": "BO1-031",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 31,
+      "title": null,
+      "display_title": "Episode 31 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-031",
+      "previous": "BO1-030",
+      "next": "BO1-032"
+    },
+    {
+      "id": "BO1-032",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 32,
+      "title": null,
+      "display_title": "Episode 32 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-032",
+      "previous": "BO1-031",
+      "next": "BO1-033"
+    },
+    {
+      "id": "BO1-033",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 33,
+      "title": null,
+      "display_title": "Episode 33 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-033",
+      "previous": "BO1-032",
+      "next": "BO1-034"
+    },
+    {
+      "id": "BO1-034",
+      "arc_id": "BO1-A4",
+      "arc": "First Beings and Lineages",
+      "sequence": 34,
+      "title": null,
+      "display_title": "Episode 34 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-034",
+      "previous": "BO1-033",
+      "next": "BO1-035"
+    },
+    {
+      "id": "BO1-035",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 35,
+      "title": null,
+      "display_title": "Episode 35 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-035",
+      "previous": "BO1-034",
+      "next": "BO1-036"
+    },
+    {
+      "id": "BO1-036",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 36,
+      "title": null,
+      "display_title": "Episode 36 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-036",
+      "previous": "BO1-035",
+      "next": "BO1-037"
+    },
+    {
+      "id": "BO1-037",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 37,
+      "title": null,
+      "display_title": "Episode 37 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-037",
+      "previous": "BO1-036",
+      "next": "BO1-038"
+    },
+    {
+      "id": "BO1-038",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 38,
+      "title": null,
+      "display_title": "Episode 38 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-038",
+      "previous": "BO1-037",
+      "next": "BO1-039"
+    },
+    {
+      "id": "BO1-039",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 39,
+      "title": null,
+      "display_title": "Episode 39 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-039",
+      "previous": "BO1-038",
+      "next": "BO1-040"
+    },
+    {
+      "id": "BO1-040",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 40,
+      "title": null,
+      "display_title": "Episode 40 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-040",
+      "previous": "BO1-039",
+      "next": "BO1-041"
+    },
+    {
+      "id": "BO1-041",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 41,
+      "title": null,
+      "display_title": "Episode 41 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-041",
+      "previous": "BO1-040",
+      "next": "BO1-042"
+    },
+    {
+      "id": "BO1-042",
+      "arc_id": "BO1-A5",
+      "arc": "Cosmic Time and Dissolution",
+      "sequence": 42,
+      "title": null,
+      "display_title": "Episode 42 \u00b7 Awaiting verified title",
+      "description": null,
+      "source_references": [],
+      "tradition": null,
+      "characters": [],
+      "editorial_status": "awaiting_research",
+      "publication_status": "unpublished",
+      "media": {
+        "watch": null,
+        "listen": null
+      },
+      "artwork_id": "BO1-SCENE-042",
+      "previous": "BO1-041",
+      "next": null
+    }
+  ]
+}
