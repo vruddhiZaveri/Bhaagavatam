@@ -101,122 +101,36 @@
 @media(max-width:600px){.video-thumb{aspect-ratio:16/9!important}.universe-panel > img{max-height:none!important}}
 
 
-/* BHAAGAVATAM HERO REFINEMENT START */
 
-/* Cinematic hero layout */
-.home-hero {
-    position: relative;
-    display: grid !important;
-    grid-template-columns: minmax(0, 46%) minmax(0, 54%) !important;
-    align-items: center;
-    min-height: 650px;
-    overflow: hidden;
-    background: #090b0d;
-    isolation: isolate;
-}
 
-/* Headline and buttons */
-.home-hero .hero-content {
-    position: relative;
-    z-index: 3;
-    padding: clamp(28px, 5vw, 85px);
-    max-width: 760px;
-}
 
-/* Prevent headline overlap */
-.home-hero .hero-content h1 {
-    font-size: clamp(42px, 4.4vw, 76px);
-    line-height: 1.1;
-    letter-spacing: -0.035em;
-}
-
-/* Full artwork display */
-.home-hero .hero-visual {
-    position: relative !important;
-    width: 100% !important;
-    height: 100% !important;
-    min-height: 500px;
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
-    overflow: hidden;
-    background: #090b0d;
-}
-
-/* Keep image complete */
-.home-hero .hero-visual img {
-    display: block;
-    width: 100% !important;
-    height: auto !important;
-    max-height: 650px;
-    object-fit: contain !important;
-    object-position: center !important;
-    transform: none !important;
-    filter: none !important;
-}
-
-/* Soft edge transition */
-.home-hero .hero-visual::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background: linear-gradient(
-        90deg,
-        #090b0d 0%,
-        rgba(9,11,13,0.15) 16%,
-        transparent 35%
-    );
-}
-
-/* Remove distracting circular decorations */
-.home-hero .hero-orbit,
-.home-hero .hero-ring,
-.home-hero .orbit-ring {
-    display: none !important;
-}
-
-/* Tablet */
-@media (max-width: 1024px) {
-    .home-hero {
-        grid-template-columns: 1fr !important;
-    }
-
-    .home-hero .hero-content {
-        padding: 56px 36px 20px;
-    }
-
-    .home-hero .hero-visual {
-        min-height: 350px;
-    }
-
-    .home-hero .hero-visual img {
-        max-height: 450px;
-    }
-}
-
-/* Mobile */
-@media (max-width: 600px) {
-    .home-hero {
-        min-height: auto;
-    }
-
-    .home-hero .hero-content {
-        padding: 44px 22px 16px;
-    }
-
-    .home-hero .hero-content h1 {
-        font-size: clamp(36px, 9vw, 52px);
-    }
-
-    .home-hero .hero-visual {
-        min-height: 240px;
-    }
-
-    .home-hero .hero-visual img {
-        max-height: 320px;
-    }
-}
-
-/* BHAAGAVATAM HERO REFINEMENT END */
-
+/* Increment 1: cinematic hero and personalized guest profile */
+.hero{display:grid;grid-template-columns:minmax(0,48%) minmax(0,52%);align-items:center;min-height:590px;height:auto;background:#090b0d}
+.hero-copy{width:100%;max-width:none;padding:64px 14px 80px clamp(28px,5vw,80px)}
+.hero h1{font-size:clamp(43px,4.4vw,72px);line-height:1.04;overflow-wrap:normal}
+.hero-art{position:relative;inset:auto;width:100%;height:100%;min-height:490px;display:flex;align-items:center;justify-content:center}
+.hero-art>img{width:100%;height:auto;max-height:590px;object-fit:contain;object-position:center;animation:none;filter:none}
+.hero .hero-orbit{display:none}
+.hero .art-vignette{background:linear-gradient(90deg,#090b0d 0%,transparent 28%),linear-gradient(0deg,#090b0d 0%,transparent 18%)}
+.hero-scroll{bottom:18px}
+.profile-overview{margin-top:10px}
+.profile-intro{min-width:0}
+.profile-guest-tag{display:inline-block;border:1px solid #685338;border-radius:100px;color:#eac990;padding:7px 12px;font-size:11px;letter-spacing:.3px}
+.profile-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin:8px clamp(25px,5vw,80px) 28px}
+.profile-panel{background:#161a1d;border:1px solid #333538;border-radius:10px;padding:26px;min-width:0}
+.profile-panel-heading{display:flex;align-items:flex-start;gap:13px;color:#d8b477;margin-bottom:20px}
+.profile-panel-heading h3{font-size:26px;color:#f5f1e9;margin:0 0 3px}
+.profile-panel-heading p{font-size:12px;margin:0}
+.profile-panel label{display:block;color:#e8d2b1;font-size:12px;margin:16px 0 8px}
+.profile-panel input,.profile-panel select{width:100%;min-height:44px;border:1px solid #48413a;background:#0c1012;color:#f5f1e9;border-radius:6px;padding:10px 12px}
+.profile-panel input:focus-visible,.profile-panel select:focus-visible{outline:2px solid #d8b477;outline-offset:2px}
+.profile-panel .profile-helper{font-size:12px;color:#9da2a5;margin:12px 0 0}
+.profile-setting-row{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid #303336;padding:13px 0;font-size:12px;color:#b8b9b8}
+.profile-setting-row strong{color:#eac990;font-weight:600}
+.reader-article.reader-size-small>p,.reader-article.reader-size-small>blockquote{font-size:14px}
+.reader-article.reader-size-medium>p,.reader-article.reader-size-medium>blockquote{font-size:17px}
+.reader-article.reader-size-large>p,.reader-article.reader-size-large>blockquote{font-size:20px}
+@media(max-width:1100px){.hero{grid-template-columns:minmax(0,52%) minmax(0,48%)}.hero h1{font-size:clamp(39px,4.5vw,58px)}}
+@media(max-width:900px){.hero{grid-template-columns:1fr;min-height:0}.hero-copy{padding:54px 28px 22px;width:100%}.hero-art{width:100%;min-height:270px;height:340px;opacity:1}.hero-art>img{max-height:340px}.hero-scroll{display:none}.hero .art-vignette{background:linear-gradient(0deg,#090b0d,transparent 20%)}}
+@media(max-width:600px){.hero-copy{padding:40px 22px 18px}.hero h1{font-size:clamp(38px,9vw,52px)}.hero-art{min-height:200px;height:250px}.hero-art>img{max-height:250px}.profile-grid{grid-template-columns:1fr;margin:10px 20px 26px}.profile-panel{padding:20px}.profile-overview{flex-direction:column;align-items:flex-start}.profile-stats{gap:18px;flex-wrap:wrap}.profile-stats div{min-width:85px}}
+@media(prefers-reduced-motion:reduce){.hero-art>img{animation:none}}
